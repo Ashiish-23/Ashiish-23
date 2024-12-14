@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ashish A Lopis-23
+- 👋 Hi, I’m @Ashish A Lopis
 - 👀 I’m interested in automobile, a tiny bit of programming
-- 🌱 I’m currently learning MCA in ST. Joseph`s University
+- 🌱 I’m currently studying MCA in ST. Joseph`s University
 - 💞️ I’m looking to collaborate on Java projects(Still learning)
 
 <!---
